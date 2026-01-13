@@ -43,13 +43,7 @@ A smart automation tool built with **Python**.
 
 ---
 
-## 📊 GitHub Stats
 
-![Atakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luxivint&show_icons=true&theme=tokyonight&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=luxivint&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luxivint&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 📫 Connect with Me
 
